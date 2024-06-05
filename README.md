@@ -1,12 +1,43 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://graph.org/file/e3c317c4a7ca7682cc6f7.jpg" alt="TG_BOTZ Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  𝐇𝐊-𝐏𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍𝐒
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗨𝗦𝗛𝗔𝗟+𝗛𝗞™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+<p align="center">
+
+<h1 align="center">
+  <b> 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧</b>
+</h1>
+
+👉 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢
+<p align="middle">        
+<a href="https://telegram.dog/KUSHALHK"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Violet.svg?logo=telegram"></a>
+
+[![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZ?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
+[![Forks](https://img.shields.io/github/forks/Kushalhk/TG_BOTZ?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
+[![Size](https://img.shields.io/github/repo-size/Kushalhk/TG_BOTZ?style=flat-square&color=orange)](https://github.com/Kushalhk/TG_BOTZ)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushalhk/TG_BOTZ)   
+[![Contributors](https://img.shields.io/github/contributors/Kushalhk/TG_BOTZ?style=flat-square&color=pink)](https://github.com/Kushalhk/TG_BOTZ/graphs/contributors)
+
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/LICENSE)
+
+<b>All this codes are created by our developers 
+
+<a href='https://t.me/SHD_KHAN'>SHAHID KHAN 👨‍💻</a>.</b>
+
+<b><a href='https://t.me/TG_Bots_Supporter'>KISHORE 👨‍💻</a>.</b>
+
+<b><a href='https://t.me/parshucr'>parshucr 👨‍💻</a>.</b>
+
+
+<b><u>
+we are nothing without your support please support us to bring more features in bot
+
+♛┈•༶❤ 𝗟𝗢𝗩𝗘 𝗬𝗢𝗨 𝗔𝗟𝗟 ❤༶•┈♛
+</b></u>
 
 ## Main Feature 
 <b>
@@ -124,25 +155,25 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 * Check [info.py](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/info.py) for more optional variables.</b>
 
 
-<details><summary><b>Deploy To Heroku</b></summary>
+<details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Kushalhk/double">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
 </details>
 
-<details><summary><b>Deploy To Koyeb</b></summary>
+<details><summary>Deploy To Koyeb</summary>
 <br>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Kushalhk/double=TG_FILTER_BOT)
 </details>
 
-<details><summary><b>Deploy To Render</b></summary>
+<details><summary>Deploy To Render</summary>
 <br>
 <b>
 Use these commands:
@@ -166,49 +197,23 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/Tech_VJ">
+<a href="https://render.com/deploy?repo=https://github.com/Kushalhk/double">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
 
-<details><summary><b>Deploy To VPS</summary>
-
-
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
-
-Install Packages
-
-`pip3 install -U -r requirements.txt`
-
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/Kushalhk/double
+# Install Packages
+pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
-
-`python3 bot.py`
-
-</b>
-</details>
-
-<hr>
-
-
-## Thanks to 
- - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
- - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ) To Modify And Add Amazing Feature In The Repo
- - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
- - Thanks To All Everyone In This Journey</b>
-
-## Note 🏷️
- 
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01)
-
-<b>[Note To A So Called Dev](https://telegram.dog/vj_botz): 
-
-Fork The Repo And Edit As Per Your Needs.</b>
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-<b>Licensed under [GNU AGPL 2.0.](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
-
+python3 bot.py
 </pre>
 </p>
 </details>
+<h1 align="center">
+  <b> THIS REPO WAS TOOK BY HARSHAL REPO </b>
+</h1>
+
