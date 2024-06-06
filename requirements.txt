@@ -1,5 +1,6 @@
 pyrofork
 tgcrypto 
+countryinfo
 requests 
 bs4 
 shortzy 
